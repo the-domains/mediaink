@@ -2,6 +2,7 @@ name: media ink
 favicon: null
 layout_spectrum: 0.27733952226117253
 typography_spectrum: 0.3643654310144484
+title: Mediaink
 cta:
   domain: null
   bucket: null
