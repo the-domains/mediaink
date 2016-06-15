@@ -1,6 +1,6 @@
 name: media ink
 favicon: null
-layout_spectrum: 0.27733952226117253
+layout_spectrum: 0.24374
 typography_spectrum: 0.3643654310144484
 title: Mediaink
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.5704740285873413
-  lightness: 0.5857780955266207
-  saturation: 0.5837877076119184
-  rhythmicContrast: 0.8229292104952037
+    - '#0b0704'
+    - '#d1c0b6'
+    - '#fffdff'
+    - '#ab978e'
+    - '#736c69'
+  brandStrength: 0.375
+  lightness: 0.5
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
